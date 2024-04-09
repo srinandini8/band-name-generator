@@ -3,9 +3,9 @@
 # using python programming creating a band name generator program
 # code 
 print("Welcome to the Band Name Generator.")
-
-streetname = input("What's the name of the city you grew up in?\n")
-
-petname = input("What's your pet's name?\n")
-
+print(\n)
+streetname = input("What's the name of the city you grew up in?")
+print(\n)
+petname = input("What's your pet's name?")
+print(\n)
 print(f"Your band name could be {streetname} { petname}")
