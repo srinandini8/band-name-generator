@@ -7,5 +7,5 @@ print("Welcome to the Band Name Generator."\n)
 streetname = input("What's the name of the city you grew up in?")
 
 petname = input("What's your pet's name?")
-print(\n)
+
 print(f"Your band name could be {streetname} { petname}")
