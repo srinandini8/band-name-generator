@@ -1,4 +1,4 @@
-# band-name-generator
+## band-name-generator
 # generating a new band name using pet name and city name
 # using python programming creating a band name generator program
 # code 
@@ -8,4 +8,4 @@ streetname = input("What's the name of the city you grew up in?")
 
 petname = input("What's your pet's name?")
 
-print(f"Your band name could be {streetname} { petname}")
+print(f"Your band name could be {streetname}{ petname}")
