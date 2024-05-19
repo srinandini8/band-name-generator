@@ -1,4 +1,4 @@
-## band-name-generator
+# band-name-generator
 ### generating a new band name using pet name and city name
 ### using python programming creating a band name generator program
 #### code 
